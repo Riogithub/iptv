@@ -1,0 +1,31 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="Testador IPTV", Gerado por Testador IPTV(PlayStore)
+https://play.google.com/store/apps/details?id=thalles.org.testadoriptv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", GOLF FHD
+http://dimapro.cz:8080/00:1A:79:17:03:FA/fukssjslsljls/2385
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", GOLF CHANNEL FR FHD
+http://dimapro.cz:8080/00:1A:79:17:03:FA/fukssjslsljls/2384
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", GOLF CHANNEL
+http://dimapro.cz:8080/00:1A:79:17:03:FA/fukssjslsljls/530
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", M. GOLF HD
+http://dimapro.cz:8080/00:1A:79:17:03:FA/fukssjslsljls/38454
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", ZIGGO SPORT GOLF HD
+http://dimapro.cz:8080/00:1A:79:17:03:FA/fukssjslsljls/59332
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", NBC GOLF
+http://dimapro.cz:8080/00:1A:79:17:03:FA/fukssjslsljls/39098
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", GOLF HD
+http://dimapro.cz:8080/00:1A:79:17:03:FA/fukssjslsljls/39100
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", GOLF CHANNEL
+http://dimapro.cz:8080/00:1A:79:17:03:FA/fukssjslsljls/59465
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", M. GOLF
+http://dimapro.cz:8080/00:1A:79:17:03:FA/fukssjslsljls/59554
